@@ -1,0 +1,237 @@
+code,name,capital,area,population
+AL,Albania,Tirane,28750,3249136
+GR,Greece,Athens,131940,10538594
+MK,Macedonia,Skopje,25333,2104035
+SRB,Serbia,Belgrade,77474,7379339
+MNE,Montenegro,Podgorica,14026,672180
+KOS,Kosovo,Pristina,10887,1804838
+AND,Andorra,Andorra la Vella,450,72766
+F,France,Paris,547030,58317450
+E,Spain,Madrid,504750,39181114
+A,Austria,Vienna,83850,8023244
+CZ,Czech Republic,Prague,78703,10321120
+D,Germany,Berlin,356910,83536115
+H,Hungary,Budapest,93030,10002541
+I,Italy,Rome,301230,57460274
+FL,Liechtenstein,Vaduz,160,31122
+SK,Slovakia,Bratislava,48845,5374362
+SLO,Slovenia,Ljubljana,20256,1951443
+CH,Switzerland,Bern,41290,7207060
+BY,Belarus,Minsk,207600,10415973
+LV,Latvia,Riga,64100,2468982
+LT,Lithuania,Vilnius,65200,3646041
+PL,Poland,Warsaw,312683,38642565
+UA,Ukraine,Kiev,603700,50864009
+R,Russia,Moscow,17075200,148178487
+B,Belgium,Brussels,30510,10170241
+L,Luxembourg,Luxembourg,2586,415870
+NL,Netherlands,Amsterdam,37330,15568034
+BIH,Bosnia and Herzegovina,Sarajevo,51233,2656240
+HR,Croatia,Zagreb,56538,5004112
+BG,Bulgaria,Sofia,110910,8612757
+RO,Romania,Bucharest,237500,21657162
+TR,Turkey,Ankara,780580,62484478
+DK,Denmark,Copenhagen,43070,5249632
+EW,Estonia,Tallinn,45100,1459428
+FARX,Faroe Islands,Torshavn,1400,43857
+SF,Finland,Helsinki,337030,5105230
+N,Norway,Oslo,324220,4383807
+S,Sweden,Stockholm,449964,8900954
+MC,Monaco,Monaco,1.9,31719
+GBZ,Gibraltar,Gibraltar,6.5,28765
+GBG,Guernsey,Saint Peter Port,194,62920
+V,Holy See,Vatican City,0.44,840
+IS,Iceland,Reykjavik,103000,270292
+IRL,Ireland,Dublin,70280,3566833
+RSM,San Marino,San Marino,60,24521
+GBJ,Jersey,Saint Helier,117,87848
+M,Malta,Valletta,320,375576
+GBM,Man,Douglas,588,73837
+MD,Moldova,Chisinau,33700,4463847
+P,Portugal,Lisbon,92080,9865114
+SVAX,Svalbard,Longyearbyen,62049,2116
+GB,United Kingdom,London,244820,58489975
+AFG,Afghanistan,Kabul,647500,22664136
+TJ,China,Beijing,9596960,1210004956
+IR,Iran,Tehran,1648000,66094264
+PK,Pakistan,Islamabad,803940,129275660
+TAD,Tajikistan,Dushanbe,143100,5916373
+TM,Turkmenistan,Ashgabat,488100,4149283
+UZB,Uzbekistan,Tashkent,447400,23418381
+ARM,Armenia,Yerevan,29800,3463574
+GE,Georgia,Tbilisi,69700,5219810
+AZ,Azerbaijan,Baku,86600,7676953
+BRN,Bahrain,Manama,620,590042
+BD,Bangladesh,Dhaka,144000,123062800
+MYA,Myanmar,Rangoon,678500,45975625
+IND,India,New Delhi,3287590,952107694
+BHT,Bhutan,Thimphu,47000,1822625
+BRU,Brunei,Bandar Seri Begawan,5770,299939
+MAL,Malaysia,Kuala Lumpur,329750,19962893
+LAO,Laos,Vientiane,236800,4975772
+THA,Thailand,Bangkok,514000,58851357
+K,Cambodia,Phnom Penh,181040,10861218
+VN,Vietnam,Hanoi,329560,73976973
+KAZ,Kazakstan,Almaty,2717300,16916463
+NOK,North Korea,Pyongyang,120540,23904124
+KGZ,Kyrgyzstan,Bishkek,198500,4529648
+HONX,Hong Kong,Hong Kong,1092,7055071
+MACX,Macau,Macau,16,496837
+MNG,Mongolia,Ulaanbaatar,1565000,2496617
+NEP,Nepal,Kathmandu,140800,22094033
+XMAS,Christmas Island,Flying Fish Cove,135,1402
+COCO,Cocos Islands,West Island,14,596
+CY,Cyprus,Nicosia,9251,744609
+IL,Israel,Jerusalem,20770,5421995
+ET,Egypt,Cairo,1001450,63575107
+RI,Indonesia,Jakarta,1919440,206611600
+TL,Timor-Leste,Dili,15007,1131612
+PNG,Papua New Guinea,Port Moresby,461690,4394537
+IRQ,Iraq,Baghdad,437072,21422292
+JOR,Jordan,Amman,89213,4212152
+KWT,Kuwait,Kuwait,17820,1950047
+SA,Saudi Arabia,Riyadh,1960582,19409058
+SYR,Syria,Damascus,185180,15608648
+RL,Lebanon,Beirut,10400,3776317
+J,Japan,Tokyo,377835,125449703
+ROK,South Korea,Seoul,98480,45482291
+MV,Maldives,Male,300,270758
+OM,Oman,Muscat,212460,2186548
+UAE,United Arab Emirates,Abu Dhabi,75581,3057337
+YE,Yemen,Sanaa,527970,13483178
+RP,Philippines,Manila,299764,74480848
+Q,Qatar,Doha,11000,547761
+SGP,Singapore,Singapore,632.6,3396924
+CL,Sri Lanka,Colombo,65610,18553074
+RC,Taiwan,Taipei,36179,21465881
+AXA,Anguilla,The Valley,102,14436
+AG,Antigua and Barbuda,Saint Johns,442,65647
+ARU,Aruba,Oranjestad,193,103065
+BS,Bahamas,Nassau,13940,259367
+BDS,Barbados,Bridgetown,430,257030
+BZ,Belize,Belmopan,22960,219296
+GCA,Guatemala,Guatemala City,108890,11277614
+MEX,Mexico,Mexico City,1972550,95772462
+BERM,Bermuda,Hamilton,53.3,67837
+BVIR,British Virgin Islands,Road Town,153,24491
+CDN,Canada,Ottawa,9976140,28820671
+USA,United States,Washington,9372610,266476278
+CAYM,Cayman Islands,George Town,262,49035
+CR,Costa Rica,San Jose,51100,3463083
+NIC,Nicaragua,Managua,129494,4272352
+PA,Panama,Panama City,78200,2655094
+C,Cuba,Havana,110860,10951334
+WD,Dominica,Roseau,746,82926
+DOM,Dominican Republic,Santo Domingo,48730,8088881
+RH,Haiti,Port-au-Prince,27750,6731539
+ES,El Salvador,San Salvador,21040,5828987
+HCA,Honduras,Tegucigalpa,112090,5605193
+GROX,Greenland,Nuuk,2175600,58203
+WG,Grenada,Saint Georges,344,94961
+GUAD,Guadeloupe,Basse-Terre,1780,407768
+JA,Jamaica,Kingston,10991,2595275
+MART,Martinique,Fort-de-France,1128,399151
+MNTS,Montserrat,Plymouth,102,5097
+NA,Netherlands Antilles,Willemstad,960,227049
+SMAR,Saint Martin,Marigot,54,29820
+CO,Colombia,Bogota,1138910,36813161
+PR,Puerto Rico,San Juan,8870,3971020
+KN,Saint Kitts and Nevis,Basseterre,269,41369
+WL,Saint Lucia,Castries,620,157862
+SPMI,Saint Pierre and Miquelon,Saint-Pierre,242,6809
+WV,Saint Vincent and the Grenadines,Kingstown,389,118344
+TT,Trinidad and Tobago,Port-of-Spain,5130,1272385
+TUCA,Turks and Caicos Islands,Grand Turk,430,22942
+VIRG,Virgin Islands,Charlotte Amalie,352,97120
+AMSA,American Samoa,Pago Pago,199,65628
+AUS,Australia,Canberra,7686850,18260863
+COOK,Cook Islands,Avarua,240,11870
+FJI,Fiji,Suva,18270,782381
+FPOL,French Polynesia,Papeete,4167,287032
+GUAM,Guam,Agana,541.3,178430
+KIR,Kiribati,Tarawa,717,80919
+MH,Marshall Islands,Majuro,181.3,58363
+FSM,Micronesia,Palikir,702,125377
+NAU,Nauru,Yaren,21,10273
+NCA,New Caledonia,Noumea,19060,227436
+NZ,New Zealand,Wellington,268680,3547983
+NIUE,Niue,Alofi,260,1398
+NORF,Norfolk Island,Kingston,34.6,2209
+NMIS,Northern Mariana Islands,Saipan,477,88662
+PAL,Palau,Melekeok,458,16952
+PITC,Pitcairn Islands,Adamstown,47,48
+SLB,Solomon Islands,Honiara,28450,412902
+TO,Tonga,Nukualofa,748,106466
+TUV,Tuvalu,Funafuti,26,10146
+VU,Vanuatu,Port-Vila,14760,177504
+WAFU,Wallis and Futuna,Mata-Utu,274,15289
+WS,Samoa,Apia,2860,214384
+RA,Argentina,Buenos Aires,2766890,34672997
+BOL,Bolivia,La Paz,1098580,7165257
+BR,Brazil,Brasilia,8511965,162661214
+RCH,Chile,Santiago,756950,14333258
+PY,Paraguay,Asuncion,406750,5504146
+ROU,Uruguay,Montevideo,176220,3238952
+PE,Peru,Lima,1285220,24523408
+FGU,French Guiana,Cayenne,91000,151187
+GUY,Guyana,Georgetown,214970,712091
+SME,Suriname,Paramaribo,163270,436418
+YV,Venezuela,Caracas,912050,21983188
+EC,Ecuador,Quito,283560,11466291
+FALK,Falkland Islands,Stanley,12173,3140
+DZ,Algeria,Algier,2381740,29183032
+LAR,Libya,Tripoli,1759540,5445436
+RMM,Mali,Bamako,1240000,9653261
+RIM,Mauritania,Nouakchott,1030700,2336048
+MA,Morocco,Rabat,446550,29779156
+RN,Niger,Niamey,1267000,9113001
+TN,Tunisia,Tunis,163610,9019687
+WSA,Western Sahara,El Aaiun,266000,222631
+ANG,Angola,Luanda,1246700,10342899
+RCB,Congo,Brazzaville,342000,2527841
+NAM,Namibia,Windhoek,825418,1677243
+ZRE,Zaire,Kinshasa,2345410,46498539
+Z,Zambia,Lusaka,752610,9159072
+BEN,Benin,Porto-Novo,112620,5709529
+BF,Burkina Faso,Ouagadougou,274200,10623323
+WAN,Nigeria,Abuja,923770,103912489
+RT,Togo,Lome,56790,4570530
+RB,Botswana,Gaborone,600370,1477630
+RSA,South Africa,Pretoria,1219912,41743459
+ZW,Zimbabwe,Harare,390580,11271314
+CI,Cote dIvoire,Yamoussoukro,322460,14762445
+GH,Ghana,Accra,238540,17698271
+BI,Burundi,Bujumbura,27830,5943057
+RWA,Rwanda,Kigali,26340,6853359
+EAT,Tanzania,Dar es Salaam,945090,29058470
+CAM,Cameroon,Yaounde,475440,14261557
+RCA,Central African Republic,Bangui,622980,3274426
+TCH,Chad,NDjamena,1284000,6976845
+GQ,Equatorial Guinea,Malabo,28050,431282
+G,Gabon,Libreville,267670,1172798
+CV,Cape Verde,Praia,4030,449066
+SUD,Sudan,Khartoum,2505810,31547543
+COM,Comoros,Moroni,2170,569237
+RG,Guinea,Conakry,245860,7411981
+LB,Liberia,Monrovia,111370,2109789
+DJI,Djibouti,Djibouti,22000,427642
+ER,Eritrea,Asmara,121320,3427883
+ETH,Ethiopia,Addis Ababa,1127127,57171662
+SP,Somalia,Mogadishu,637660,9639151
+EAK,Kenya,Nairobi,582650,28176686
+WAG,Gambia,Banjul,11300,1204984
+SN,Senegal,Dakar,196190,9092749
+GNB,Guinea-Bissau,Bissau,36120,1151330
+WAL,Sierra Leone,Freetown,71740,4793121
+EAU,Uganda,Kampala,236040,20158176
+LS,Lesotho,Maseru,30350,1970781
+RM,Madagascar,Antananarivo,587041,13670507
+MW,Malawi,Lilongwe,118480,9452844
+MOC,Mozambique,Maputo,801590,17877927
+MS,Mauritius,Port Louis,2040,1140256
+MAYO,Mayotte,Mamoutzou,374,223765
+SD,Swaziland,Mbabane,17360,998730
+REUN,Reunion,Saint-Denis,2510,679198
+HELX,Saint Helena,Jamestown,413,7637
+STP,Sao Tome and Principe,Sao Tome,1001,144128
+SY,Seychelles,Victoria,455,77575
